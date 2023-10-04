@@ -1,0 +1,10 @@
+/* src/global.css o src/app/home/home.page.scss */
+
+.background-image {
+    background-image: url('../../assets/logo/body.jpeg'); /* Ruta a tu imagen en assets */
+    background-size: cover;
+    background-position: center center;
+    background-repeat: no-repeat;
+    height: 100vh; /* Establece la altura al 100% de la ventana */
+    width: 100%; /* Establece el ancho al 100% */
+  } 

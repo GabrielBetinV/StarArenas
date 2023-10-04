@@ -1,0 +1,7 @@
+{
+  "name": "starArenas",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
